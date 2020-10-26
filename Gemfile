@@ -48,3 +48,5 @@ gem 'jsonapi-serializer'
 gem "pagy", "~> 3.9"
 
 gem "kaminari", "~> 1.2"
+
+gem "octokit", "~> 4.19"
